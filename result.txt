@@ -1,0 +1,30 @@
+id=1, name='Barbie', weight=5.0
+id=2, name='Car', weight=10.0
+id=3, name='Teddy Bear', weight=15.0
+id=3, name='Teddy Bear', weight=15.0
+id=3, name='Teddy Bear', weight=15.0
+id=5, name='Horse', weight=20.0
+id=5, name='Horse', weight=20.0
+id=5, name='Horse', weight=20.0
+id=4, name='Ball', weight=50.0
+id=4, name='Ball', weight=50.0
+id=1, name='Barbie', weight=5.0
+id=1, name='Barbie', weight=5.0
+id=1, name='Barbie', weight=5.0
+id=1, name='Barbie', weight=5.0
+id=1, name='Barbie', weight=5.0
+id=2, name='Car', weight=10.0
+id=2, name='Car', weight=10.0
+id=3, name='Teddy Bear', weight=15.0
+id=3, name='Teddy Bear', weight=15.0
+id=5, name='Horse', weight=20.0
+id=1, name='Barbie', weight=5.0
+id=1, name='Barbie', weight=5.0
+id=2, name='Car', weight=10.0
+id=2, name='Car', weight=10.0
+id=3, name='Teddy Bear', weight=15.0
+id=5, name='Horse', weight=20.0
+id=4, name='Ball', weight=50.0
+id=4, name='Ball', weight=50.0
+id=4, name='Ball', weight=50.0
+id=4, name='Ball', weight=50.0
